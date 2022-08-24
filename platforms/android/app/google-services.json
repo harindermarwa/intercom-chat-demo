@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85280774483",
+    "project_id": "intercom-chat-8e6fd",
+    "storage_bucket": "intercom-chat-8e6fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85280774483:android:2c3f6de0b7dd0d4f40e9a6",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85280774483-eqf6ff8q4irjkrddm1pco0lo9i8mjja6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOUM8iIU5qQWrqLwlbBUycpD-tgvnv_Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85280774483-eqf6ff8q4irjkrddm1pco0lo9i8mjja6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
